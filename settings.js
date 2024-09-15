@@ -1,35 +1,35 @@
 //base by DGXeon (Xeon Bot Inc.)
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
+//Telegram: t.me/xeotinc
 //GitHub: @DGXeon
 //WhatsApp: +2348187637779
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@esteams
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ams
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2348187637779"
-global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
+global.ownername = "devil star👑"
 global.ytname = "YT: paskito"
-global.socialm = "GitHub: paskito002"
+global.socialm = "GitHub: rtunish"
 global.location = "Nigeria,Cross River,Calabar"
 
-global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
-global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
+global.ownernumber = '923217818687'  //creator number
+global.ownername = 'devil star' //owner name
+global.botname = 'S҉  N҉  E҉ R҉' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +2348187637779'
+global.author = 'devil star👑\n\nContact: +923217818687'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "ES TEAMS Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
+global.link = 'https://whatsapp.com/channel/0029jsjVaj1vKSK5cDDT4tV1y'
 
 //custom prefix
 global.prefa = ['.']
